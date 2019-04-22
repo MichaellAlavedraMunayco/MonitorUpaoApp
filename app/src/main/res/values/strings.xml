@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Monitor UPAO</string>
+    <string name="id_alumno">ID UPAO</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="notas">Notas</string>
+    <string name="notas_detalle">Visualiza o actualiza tus notas</string>
+    <string name="update_notas">Actualizar notas</string>
+    <string name="info_notas">Información</string>
+    <string name="Promocional">Promocional</string>
+    <string name="Componente">Componente</string>
+    <string name="Subcomponente">Subcomponente</string>
+</resources>
